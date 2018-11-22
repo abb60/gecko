@@ -1,3 +1,4 @@
+#this is a test
 FROM fedora 
 RUN dnf -y install tree curl tar gzip
 WORKDIR /work
